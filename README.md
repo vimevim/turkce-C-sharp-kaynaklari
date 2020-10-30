@@ -1,6 +1,7 @@
 Bu sayfada C# programlama dili için Türkçe olarak hazırlanmış kaynakları (çeviri, blog yazısı, video eğitim vb.) bulabilirsiniz. 
 Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehberi](https://github.com/vimevim/turkce-C-sharp-kaynaklari/blob/main/katkida-bulunma-rehberi.md)ndeki adımları izleyerek ekleme yapabilirsiniz.
-> Bilgi paylaştıkça çoğalır.
+* > Bilgi paylaştıkça çoğalır.
+* > [turkce-python-kaynaklari](https://github.com/vanhoxx/turkce-python-kaynaklari#e%C4%9Fitim-seti-yaz%C4%B1l%C4%B1)'ndan ilham alınmıştır.
 ###### :star::Önerilen içerik,  :heavy_dollar_sign::Ücretli İçerik
 
 
